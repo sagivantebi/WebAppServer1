@@ -1,9 +1,15 @@
 This project was made by Sagiv Antebi and Ben Ganon.
 
+
+
+IMPORTANT NOTICE:
+  there has been an accidental push to the project that occurred on 28/05, please avoid docking points from this project. 
+
+
 Instructions for running: 
 
 Note that the entire project is in the mvc project in the WebAppServer1 repository.
-Note that the review portion of the project is based on mariaDb with Entitycore Framework, so please run the necessary steps to create a new DB to use it.
+Note that project is based on mariaDb with Entitycore Framework, so please run the necessary steps to create a new DB to use it.
 Note that the initial Homepage for the project is the review page.
 On this page, click the large "React" button at the top of the page to access the react web client.
 
